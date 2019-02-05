@@ -3,7 +3,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ;SetWorkingDir, C:\AHK\2nd-keyboard\ ;Or you could put the directory here. Whatevs.
 ;Menu, Tray, Icon, shell32.dll, 319 ;if commented in, this line changes the taskbar icon to a blue star. Beware that if you don't have shell32.dll, it'll be a blank icon!
 ;SetKeyDelay, 0 ;IDK exactly what this does.
-
+;akakakaka
 ;;EXACT LOCATION FOR WHERE TO PUT THIS SCRIPT:
 ; C:\AHK\2nd-keyboard\Corsair\
 ;;(It's not mandatory for this one, but if you use any of my other scripts, it'll make things way easier later.)
